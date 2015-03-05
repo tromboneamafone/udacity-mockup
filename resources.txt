@@ -1,0 +1,12 @@
+resources used:
+
+USED ON PREVIOUS TURN-IN OF PROJECT:
+CSS reference page: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+W3C Validation service: http://validator.w3.org/
+Bootstrap CSS: http://getbootstrap.com/css/
+
+USED FOR 2nd SUBMISSION:
+keeping font changes across classes: https://piazza.com/class/i36sqlrb9xu332?cid=186
+understanding some bootstrap: https://piazza.com/class/i36sqlrb9xu332?cid=81
+css validation: http://jigsaw.w3.org/css-validator/
+HTML/CSS udacity style guide: http://udacity.github.io/frontend-nanodegree-styleguide/css.html
